@@ -854,7 +854,6 @@ zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 
 #Admob
-google.com, pub-4591747563975705, DIRECT, f08c47fec0942fa0
 google.com, pub-6381704506941825, DIRECT, f08c47fec0942fa0
 google.com, pub-9764268380977068, DIRECT, f08c47fec0942fa0
 google.com, pub-6413386943382946, DIRECT, f08c47fec0942fa0
@@ -863,7 +862,6 @@ google.com, pub-9659100625006129, DIRECT, f08c47fec0942fa0
 google.com, pub-4844703270859401, DIRECT, f08c47fec0942fa0
 google.com, pub-7137699734922870, DIRECT, f08c47fec0942fa0
 google.com, pub-5365378381587512, DIRECT, f08c47fec0942fa0
-google.com, pub-4591747563975705, DIRECT, f08c47fec0942fa0
 google.com, pub-4591747563975705, DIRECT, f08c47fec0942fa0
 
 #Unity
