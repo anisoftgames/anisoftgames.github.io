@@ -1369,6 +1369,7 @@ video.unrulymedia.com,2613193077,RESELLER
 yandex.com, 95746987, RESELLER
 
 vungle.com,[65a02d14ab2b4800112a5aa3],DIRECT,c107d686becd2d77
+vungle.com, 65a02d14ab2b4800112a5aa3, DIRECT, c107d686becd2d77
 152media.info,152M312,RESELLER
 Adform.com,2742,RESELLER
 Pubmatic.com,162882,RESELLER,5d62403b186f2ace
@@ -2899,4 +2900,5 @@ tritondigital.com, 44733, RESELLER, 19b4454d0b87b58b
 appnexus.com, 1577, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
 adswizz.com, targetspot, RESELLER
+
 
